@@ -107,6 +107,6 @@ time.sleep(5)
 driver.get('https://chromedriver.chromium.org/downloads')
 driver.get_screenshot_as_file('chromium.png')
 time.sleep(5)
-driver.quit()# ЗАКРЫВАЕТ БРАУЗЕР
+driver.quit()# ЗАКРЫВАЕТ БРАУЗЕР1
 
 

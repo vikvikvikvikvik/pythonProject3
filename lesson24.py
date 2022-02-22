@@ -150,3 +150,4 @@ ex36_a_xpath = '/html/body/div[2]/main/cach/div[3]/div[3]/div[3]/div[3]/div/img'
 button_ex36 = driver.find_element('xpath',ex36_a_xpath)
 button_ex36_click()
 
+#2
