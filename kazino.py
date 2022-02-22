@@ -30,4 +30,4 @@ while game:
     if game == 'n':
         game = 0
         print("Спасибо за игру!")
-        end = input('Нажмине enter что бы выйти')
+        end = input('Нажмите enter что бы выйти')

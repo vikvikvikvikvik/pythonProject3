@@ -126,9 +126,9 @@ while game:
         player2_choice = ''
         #Enter data
         while player1_choice != 'r' and  player1_choice != 'p' and player1_choice != 's':
-            player1_choice = str(input("Enter your choice player 1: [r],[p],[s] : "))
+            player1_choice = str(input(f'Enter your choice {player1_name}: [r],[p],[s] : '))
         while player2_choice != 'r' and player2_choice != 'p' and player2_choice != 's':
-            player2_choice = str(input("Enter your choice player 2: [r],[p],[s] : "))
+            player2_choice = str(input(f'Enter your choice {player2_name}: [r],[p],[s] : '))
         #Compare data
         # if player1_choice == 'r':
         #     if player2_choice == 's':

@@ -223,6 +223,11 @@
 #         t = t[:i] + t[i].upper() + t[i + 1:]
 #
 
-word = 'hello world!'
-print(word.find('l'))
-print(word.rfind('l'))
+# word = 'hello world!'
+# print(word.find('l'))
+# print(word.rfind('l'))
+#
+# x = input("enter : ")
+# y = int(input("enter : "))
+#
+# print(x / y)
